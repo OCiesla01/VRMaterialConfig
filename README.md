@@ -2,17 +2,17 @@
 
 **_A Virtual Reality experience for testing, customizing, and visualizing PBR materials in real-time._**
 
-## About the Project
+## 🧠 About the Project
 
 The VR Material Configurator is a Virtual Reality application built in Unreal Engine 5, designed to streamline and accelerate the material testing process. It allows users to select, modify, and visualize PBR materials in real-time across multiple environments and 3D models, providing a highly immersive and intuitive way to preview surface behavior under various lighting conditions.
 
 This project focuses on enhancing productivity and creative control in the material creation and visualization workflow, offering a real-time, interactive testing environment for artists, designers, and technical developers.
 
-## Visual Overview
+## 🎥 Visual Overview
 
 ***here will be link to the video***
 
-## User Instructions
+## 🕹️ User Instructions
 
 ### Installation
 1. Download the zip file of the project
@@ -30,4 +30,19 @@ This project focuses on enhancing productivity and creative control in the mater
 7. Press **Menu Button** to open menu. From here you can reset your view, open level selection menu or quit the application.
 8. After opening the **Level Selection Menu** you will be able to choose level you want to load.
 
-## Developer Instructions
+## 🧑‍💻 Developer Instructions
+
+### Engine
+* **Version**: 5.6.1
+* Uses only Blueprints with plugin support - FILE I/O, Enhanced Input, OpenXR
+
+### Adding new Materials
+1. a
+
+
+## 🧩 Contributions
+If you'd like to improve the project:
+* 🐞 Bug Reports
+* ⚙️ Code or Blueprint Fixes
+* 💡 Feature Suggestions
+Feel free to write to me on my email **oskar.ciesla.development@gmail.com**
