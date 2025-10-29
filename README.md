@@ -14,3 +14,6 @@ This project focuses on enhancing productivity and creative control in the mater
 
 ## User Instructions
 
+1. Download the zip file of the project
+2. Unzip it on your PC
+3. Launch 
