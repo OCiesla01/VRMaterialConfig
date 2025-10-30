@@ -37,8 +37,25 @@ This project focuses on enhancing productivity and creative control in the mater
 * Uses only Blueprints with plugin support - FILE I/O, Enhanced Input, OpenXR
 
 ### Adding new Materials
-1. a
+_It is highly recommended to use appropriate folder in **Content > Materials > Usable** when adding new material_
+1. Create new subfolder in appropriate material category folder - e.g. **Wood5** in **Wood**
+2. In created subfolder, create new folder **Textures** where textures will be stored
 
+_Recommended material folder structure example:_
+<img width="1920" height="1080" alt="folder_structure" src="https://github.com/user-attachments/assets/6888d148-9b7b-4b2e-a657-0f814ccef354" />
+
+3. Import textures to created **Textures** folder
+4. Go to **Content > MasterMaterialTemplate** and create material instance from **M_Master**
+5. Move created material instance to created subfolder (material subfolder, not **Textures** folder inside)
+6. Add imported textures to material instance and save it
+7. Open materials datatable under **Content > Data > DT_Materials**
+8. Add new row and fill it with material data:
+- **Category*** - choose fitting material category
+- **Base Texture** - drag & drop base texture of the material
+- **Material** - drag & drop created material instance
+- **Name** - enter display name for the material
+- **Link** - enter link to website from which textures were downloaded
+9. Your material is ready to use in real-time
 
 ## 🧩 Contributions
 If you'd like to improve the project:
