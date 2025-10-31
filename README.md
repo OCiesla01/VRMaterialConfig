@@ -47,11 +47,12 @@ _Recommended material folder structure example:_
 <img width="1920" height="1080" alt="folder_structure" src="https://github.com/user-attachments/assets/6888d148-9b7b-4b2e-a657-0f814ccef354" />
 
 3. Import textures to created **Textures** folder
-4. Go to **Content > MasterMaterialTemplate** and create material instance from **M_Master**
-5. Move created material instance to created subfolder (material subfolder, not **Textures** folder inside)
-6. Add imported textures to material instance and save it
-7. Open materials datatable under **Content > Data > DT_Materials**
-8. Add new row and fill it with material data:
+4. Make sure to do relevant actions on each texture _(e.g change compression settings or switch sRGB value)_
+5. Go to **Content > MasterMaterialTemplate** and create material instance from **M_Master**
+6. Move created material instance to created subfolder (material subfolder, not **Textures** folder inside)
+7. Add imported textures to material instance and save it
+8. Open materials datatable under **Content > Data > DT_Materials**
+9. Add new row and fill it with material data:
 - **Category*** - choose fitting material category
 - **Base Texture** - drag & drop base texture of the material
 - **Material** - drag & drop created material instance
