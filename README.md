@@ -19,6 +19,8 @@ This project focuses on enhancing productivity and creative control in the mater
 2. Unzip it on your PC
 3. Launch **project.exe**
 4. Make sure your VR headset is connected to your PC
+5. Check if necessarry plugins are installed and enabled in the project - FILE I/O, Enhanced Input, OpenXR
+6. You are good to go!
 
 ### Using the Application
 1. Rotate your left hand and look at it to open the material selection menu - here you can choose category and select material to apply to model.
