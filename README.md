@@ -60,7 +60,7 @@ _Recommended material folder structure example:_
 - **Link** - enter link to website from which textures were downloaded
 9. Your material is ready to use in real-time
 
-## Frequently asked questions
+## FAQ
 **Q1. Are you going to add more materials?**
 
 Yes, future updates will include more material categories and texture sets. However this project is intentionally designed to make it easy for users to import their own textures for specific needs. You’re highly encouraged to expand your personal material library — the system automatically recognizes new textures once they’re properly added to the project.
