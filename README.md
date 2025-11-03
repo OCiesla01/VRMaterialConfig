@@ -60,9 +60,22 @@ _Recommended material folder structure example:_
 - **Link** - enter link to website from which textures were downloaded
 9. Your material is ready to use in real-time
 
+## Frequently asked questions
+**Q1. Are you going to add more materials?**
+
+Yes, future updates will include more material categories and texture sets. However this project is intentionally designed to make it easy for users to import their own textures for specific needs. You’re highly encouraged to expand your personal material library — the system automatically recognizes new textures once they’re properly added to the project.
+
+**Q2. Can I use this for my own project or modify it?**
+
+Yes, this is an **open-source** project. You're free to modify, extend or integrate it into your own Unreal Engine projects. If you do, please credit the original repository and consider leaving a ⭐ on GitHub - it really helps other discover it.
+
+**Q3. What VR headsets are supported?**
+
+The project is built using OpenXR, which means it supports most major headsets, including **Meta Quest 3 and 2, Valve Index. HTC Vive, and Pico series (via SteamVR)**. The project itself was tested and optimized on the **Meta Quest 3**.
+
 ## 🧩 Contributions
 If you'd like to improve the project:
 * 🐞 Bug Reports
 * ⚙️ Code or Blueprint Fixes
 * 💡 Feature Suggestions
-Feel free to write to me on my email **oskar.ciesla.development@gmail.com**
+Feel free to write to me on my email **oskar.ciesla.development@gmail.com**. Make sure to include **VRMaterialConfigurator** in the title.
