@@ -4,7 +4,7 @@
 
 ## 🧠 About the Project
 
-The VR Material Configurator is a Virtual Reality application built in Unreal Engine 5, designed to streamline and accelerate the material testing process. It allows users to select, modify, and visualize PBR materials in real-time across multiple environments and 3D models, providing a highly immersive and intuitive way to preview surface behavior under various lighting conditions.
+VR Material Configurator is a virtual reality application built in Unreal Engine 5, designed to streamline and accelerate the material testing process. It allows users to select, modify, and visualize PBR materials in real-time across multiple environments and 3D models, providing a highly immersive and intuitive way to preview surface behavior under various lighting conditions.
 
 This project focuses on enhancing productivity and creative control in the material creation and visualization workflow, offering a real-time, interactive testing environment for artists, designers, and technical developers.
 
