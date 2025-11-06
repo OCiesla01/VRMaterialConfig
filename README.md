@@ -73,6 +73,10 @@ Yes, this is an **open-source** project. You're free to modify, extend or integr
 
 The project is built using OpenXR, which means it supports most major headsets, including **Meta Quest 3 and 2, Valve Index. HTC Vive, and Pico series (via SteamVR)**. The project itself was tested and optimized on the **Meta Quest 3**.
 
+**Q4. Where did you get textures from?**
+
+All textures were downloaded from this website: *https://ambientcg.com/*. 
+
 ## 🧩 Contributions
 If you'd like to improve the project:
 * 🐞 Bug Reports
